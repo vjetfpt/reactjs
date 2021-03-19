@@ -17,6 +17,7 @@ function Avatar(props){
     />
   );
 }
+
 function UserInfo(props){
   return (
     <div className="UserInfo">
@@ -36,6 +37,7 @@ const comment={
     'https://placekitten.com/g/64/64',
   }
 }
+// state
 class Form extends React.Component {
   constructor (props) {
      super(props)
@@ -46,7 +48,6 @@ class Form extends React.Component {
 handleChange = (text) => {
     this.setState({ input: text })
   }
-  
   render () {
     const { input } = this.state
     return (
