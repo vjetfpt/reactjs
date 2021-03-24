@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Album = () => {
+const Album = ({data}) => {
     return (
         <div className="album py-5 bg-light">
             <div className="container">
