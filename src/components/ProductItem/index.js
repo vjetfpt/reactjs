@@ -2,7 +2,7 @@ const ProductItem = ({data}) => {
     return (
         <div className="col">
             <div className="card shadow-sm">
-                <img src={data.image}/>
+                <img src={data.avatar} width="100"/>
                 <div className="card-body">
                     <p className="card-text">{data.name}</p>
                     <div className="d-flex justify-content-between align-items-center">

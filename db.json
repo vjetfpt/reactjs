@@ -1,0 +1,37 @@
+{
+  "albums": [
+    {
+      "id": "2",
+      "createdAt": "2021-03-26T23:59:03.183Z",
+      "name": "Bradley Roberts123444",
+      "avatar": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "3",
+      "createdAt": "2021-03-26T14:12:55.966Z",
+      "name": "Una Collins23",
+      "avatar": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "4",
+      "createdAt": "2021-03-26T18:42:22.886Z",
+      "name": "Arne Halvorson",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jonathansimmons/128.jpg"
+    },
+    {
+      "name": "iphone1qaaaaaaaaa",
+      "createdAt": "123",
+      "id": "15jOAiG"
+    },
+    {
+      "name": "viet hoang",
+      "createdAt": "1111111111",
+      "id": 1
+    },
+    {
+      "name": "azzzzzzzzzzzzzzzz",
+      "createdAt": "111",
+      "id": 6
+    }
+  ]
+}
